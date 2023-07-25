@@ -1,7 +1,6 @@
 ### Olá! Seja bem vindo ao meu Github. 👋
 
 - 🎓 Aluna de Ciência da Computação
-- 💻 Estudando PHP
 
  
 <div> 
