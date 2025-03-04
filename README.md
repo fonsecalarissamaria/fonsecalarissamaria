@@ -3,9 +3,10 @@
 #
 <img align="right" alt="" height="325px" src="https://i.pinimg.com/originals/17/05/49/1705497fab76fe79d047898f317786ac.gif"/>
 <br><br>
-<p align="left"> 
-  🎓 Estudante de Ciência da Computação na Universidade Estadual de Londrina (UEL)
+<p align="left">
+  🎓 Estudante de Ciência da Computação na Universidade Estadual de<br style="line-height: 0.5;"> Londrina (UEL)
 </p>
+
 
 <h3 style="line-height: 0.5;" align="left">Conhecimentos Gerais</h3>
 
