@@ -1,14 +1,14 @@
-### <p align="center"> Olá! Seja bem vindo ao meu Github. 👋
+## <p align="center"> Olá! Seja bem vindo ao meu Github. 👋🏻
 
-#
-<img align="right" alt="" height="325px" src="https://i.pinimg.com/originals/17/05/49/1705497fab76fe79d047898f317786ac.gif"/>
+
+<img align="right" alt="" height="325px" src="https://giffiles.alphacoders.com/854/85466.gif"/>
 <br><br>
 <p align="left">
   🎓 Estudante de Ciência da Computação na Universidade Estadual de<br style="line-height: 0.5;"> Londrina (UEL)
 </p>
 
 
-<h3 style="line-height: 0.5;" align="left">Conhecimentos Gerais</h3>
+<h3 style="line-height: 0.5;" align="left">Tecnologias e Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
@@ -41,4 +41,9 @@
 </div>
 
 #
+
+<div align="center">
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonsecalarissamaria&show_icons=true&theme=radical" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecalarissamaria&layout=compact&theme=radical" /></a>
+</div>
 
