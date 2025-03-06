@@ -1,7 +1,7 @@
 ## <p align="center"> Olá! Seja bem vindo ao meu Github. 👋🏻
 
 
-<img align="right" alt="" height="325px" src="https://giffiles.alphacoders.com/854/85466.gif"/>
+<img align="right" alt="" height="300px" src="https://giffiles.alphacoders.com/854/85466.gif"/>
 <br><br>
 <p align="left">
   🎓 Estudante de Ciência da Computação na Universidade Estadual de<br style="line-height: 0.5;"> Londrina (UEL)
